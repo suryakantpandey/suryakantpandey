@@ -6,7 +6,7 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryakantpandey&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryakantpandey&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Suryakant's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryakantpandey&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
