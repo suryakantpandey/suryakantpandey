@@ -5,7 +5,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is Suryakant Pandey!
 
 
-- 🔭 I’m currently working on C, C++, MERN Stack,Python
+- 🔭 I’m currently working on  C/C++, MERN Stack and Python
 - 🌱 I’m currently learning  Backend development.
 - 👯 I’m looking to work on real world projects.
 - 💬 Ask me about Techology in general.
