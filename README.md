@@ -1,3 +1,6 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=suryakantpandey&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasmishragithub" /> </p>
+
+
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Suryakant Pandey!
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/suryakant05/)
