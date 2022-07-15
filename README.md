@@ -2,7 +2,14 @@
 
 
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Suryakant Pandey!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is Suryakant Pandey!
+
+
+- 🔭 I’m currently working on C, C++, MERN Stack,Python
+- 🌱 I’m currently learning  Backend development.
+- 👯 I’m looking to work on real world projects.
+- 💬 Ask me about Techology in general.
+- 📫 Here are my social links:
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/suryakant05/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suryakant_05/)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=Dev-dot-To&logoColor=white)](https://dev.to/suryakant_05)
