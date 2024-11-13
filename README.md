@@ -12,7 +12,7 @@ I'm a Backend Developer specializing in **Java** and **Spring Boot** with a keen
 - 📫 **Connect with me**:
   [![LinkedIn](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/suryakant05/)
   [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=Dev-dot-To&logoColor=white)](https://dev.to/suryakant_05)
-  [![Leetcode.com](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black))](https://leetcode.com/u/suryakantpandey/)
+  [![Leetcode.com](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/suryakantpandey/)
 
 ---
 
