@@ -11,8 +11,8 @@ I'm a Backend Developer specializing in **Java** and **Spring Boot** with a keen
 - 💬 **Ask me about**: Technology in general, especially Backend and DevOps.
 - 📫 **Connect with me**:
   [![LinkedIn](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/suryakant05/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suryakant_05/)
   [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=Dev-dot-To&logoColor=white)](https://dev.to/suryakant_05)
+  [![Leetcode](https://leetcode.com/u/suryakantpandey/)
 
 ---
 
