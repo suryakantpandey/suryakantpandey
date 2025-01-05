@@ -42,8 +42,11 @@ B.E. in Computer Science
 
 ## 💼 Professional Experience
 
+### **Myntra| Software Enginer**
+*Jan 2025 - Present | Bengaluru, India*
+
 ### **Hyperface (Emerging Fintech Startup) | SDE I**
-*June 2023 - Present | Bengaluru, India*
+*June 2023 - Dec 2024 | Bengaluru, India*
 
 - Built a configurable customer onboarding system for co-branded credit cards, creating a no-code solution for clients.
 - Developed a custom authentication system with fine-grained access control for enhanced security, utilized across multiple microservices.
