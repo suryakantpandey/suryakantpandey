@@ -42,7 +42,7 @@ B.E. in Computer Science
 
 ## 💼 Professional Experience
 
-### **Myntra| Software Enginer**
+### **Myntra | Software Enginer**
 *Jan 2025 - Present | Bengaluru, India*
 
 - Developing and optimizing inventory and warehouse management systems to streamline operations, improve efficiency.
