@@ -45,6 +45,8 @@ B.E. in Computer Science
 ### **Myntra| Software Enginer**
 *Jan 2025 - Present | Bengaluru, India*
 
+- Developing and optimizing inventory and warehouse management systems to streamline operations, improve efficiency.
+
 ### **Hyperface (Emerging Fintech Startup) | SDE I**
 *June 2023 - Dec 2024 | Bengaluru, India*
 
